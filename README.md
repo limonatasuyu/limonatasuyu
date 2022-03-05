@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @limonatasuyu
-- 👀 I’m interested in Python, php, sql, web development
-- 🌱 I’m currently learning phpMyAdmin, MySQL, JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web development
 - 📫 How to reach me my e-mail: emredilek6@gmail.com
                      
 
